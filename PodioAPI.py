@@ -1,4 +1,4 @@
-'''Imago Dei API Push
+'''Client API Push
 3/2016 - Original Creation - TEF
 
 '''
